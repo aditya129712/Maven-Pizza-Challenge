@@ -1,5 +1,7 @@
 # Maven-Pizza-Challenge
 
+Insight of Maven Pizza Challenge
+
 (1) Total sales of Pizza is $817.860 K.
 
 
